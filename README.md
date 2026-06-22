@@ -1,4 +1,4 @@
-# 🎮 Atari Breakout — x86 Assembly
+# 🎮 Atari Breakout x86 Assembly
 
 A fully playable Breakout arcade game built in x86 Assembly language, running on DOS via DOSBox. Made as a COAL (Computer Organization & Assembly Language) Lab project.
 
@@ -41,7 +41,7 @@ breakout.com
 - Live score, timer and lives system
 - Start screen, Game Over & Winner screen
 - Direct video memory access via `0xB800`
-- No external libraries — pure assembly from scratch
+- No external libraries; pure assembly from scratch
 
 ---
 
